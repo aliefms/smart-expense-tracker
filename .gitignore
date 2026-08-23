@@ -1,0 +1,42 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Testing and coverage output
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Type-checking and linting caches
+.mypy_cache/
+.ruff_cache/
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Operating-system files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs and temporary output
+*.log
+tmp/
+temp/
+
+# Local/private application data
+data/private/
+storage/
+models/

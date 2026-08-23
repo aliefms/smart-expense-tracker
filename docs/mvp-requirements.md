@@ -1,0 +1,7 @@
+
+    ↓
+Structured JSON
+    ↓
+Validation
+    ↓
+PostgreSQL

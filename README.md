@@ -17,3 +17,17 @@ Ollama
 Structured JSON
     ↓
 PostgreSQL
+
+## Current Status
+
+Completed:
+
+- Milestone 1: Requirements and MVP definition
+- Milestone 2: Simplified system architecture
+- Milestone 3: Local development environment
+- Milestone 4: Git and GitHub repository setup
+- Milestone 5: Project folder structure
+
+Next:
+
+- Milestone 6: Receipt test dataset
