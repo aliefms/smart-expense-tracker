@@ -1,0 +1,35 @@
+{
+  "merchant_name": "Minimarket Hemat",
+  "transaction_date": "2026-08-23",
+  "currency": "IDR",
+  "subtotal": 76500,
+  "tax": 7700,
+  "discount": 6500,
+  "total": 77700,
+  "items": [
+    {
+      "name": "Susu UHT",
+      "quantity": 2,
+      "unit_price": 8500,
+      "line_total": 17000
+    },
+    {
+      "name": "Roti Tawar",
+      "quantity": 1,
+      "unit_price": 18000,
+      "line_total": 18000
+    },
+    {
+      "name": "Telur Ayam",
+      "quantity": 1,
+      "unit_price": 28000,
+      "line_total": 28000
+    },
+    {
+      "name": "Sabun Mandi",
+      "quantity": 3,
+      "unit_price": 4500,
+      "line_total": 13500
+    }
+  ]
+}

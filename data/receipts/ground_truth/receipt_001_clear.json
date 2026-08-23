@@ -1,0 +1,23 @@
+{
+  "merchant_name": "Toko Maju",
+  "transaction_date": "2026-08-24",
+  "currency": "IDR",
+  "subtotal": 45000,
+  "tax": 4950,
+  "discount": 0,
+  "total": 49950,
+  "items": [
+    {
+      "name": "Air Mineral",
+      "quantity": 2,
+      "unit_price": 5000,
+      "line_total": 10000
+    },
+    {
+      "name": "Nasi Goreng",
+      "quantity": 1,
+      "unit_price": 35000,
+      "line_total": 35000
+    }
+  ]
+}

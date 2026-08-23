@@ -1,0 +1,21 @@
+{
+  "dataset_name": "Smart Expense Tracker Synthetic Receipts",
+  "description": "Controlled receipt images for OCR and AI parsing development.",
+  "receipts": [
+    {
+      "image": "receipt_001_clear.png",
+      "ground_truth": "receipt_001_clear.json",
+      "difficulty": "easy"
+    },
+    {
+      "image": "receipt_002_multi_item.png",
+      "ground_truth": "receipt_002_multi_item.json",
+      "difficulty": "medium"
+    },
+    {
+      "image": "receipt_003_low_quality.png",
+      "ground_truth": "receipt_003_low_quality.json",
+      "difficulty": "difficult"
+    }
+  ]
+}

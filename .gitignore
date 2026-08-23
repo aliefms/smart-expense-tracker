@@ -36,7 +36,17 @@ Desktop.ini
 tmp/
 temp/
 
-# Local/private application data
-data/private/
+# Private receipt data
+data/receipts/private/
+
+# Generated OCR output
+data/ocr_output/*
+!data/ocr_output/.gitkeep
+
+# Generated structured data
+data/processed/*
+!data/processed/.gitkeep
+
+# Future local storage and downloaded models
 storage/
 models/

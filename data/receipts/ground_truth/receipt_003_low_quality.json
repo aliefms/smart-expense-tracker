@@ -1,0 +1,23 @@
+{
+  "merchant_name": "Kedai Nusantara",
+  "transaction_date": "2026-08-24",
+  "currency": "IDR",
+  "subtotal": 58000,
+  "tax": 2900,
+  "discount": 0,
+  "total": 60900,
+  "items": [
+    {
+      "name": "Kopi Susu",
+      "quantity": 2,
+      "unit_price": 18000,
+      "line_total": 36000
+    },
+    {
+      "name": "Mie Goreng",
+      "quantity": 1,
+      "unit_price": 22000,
+      "line_total": 22000
+    }
+  ]
+}

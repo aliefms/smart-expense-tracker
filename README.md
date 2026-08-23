@@ -27,7 +27,8 @@ Completed:
 - Milestone 3: Local development environment
 - Milestone 4: Git and GitHub repository setup
 - Milestone 5: Project folder structure
+- Milestone 6: Testing receipt dataset
 
 Next:
 
-- Milestone 6: Receipt test dataset
+- Milestone 7: PaddleOCR utilization
