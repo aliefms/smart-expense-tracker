@@ -28,7 +28,8 @@ Completed:
 - Milestone 4: Git and GitHub repository setup
 - Milestone 5: Project folder structure
 - Milestone 6: Testing receipt dataset
+- Milestone 7: PaddleOCR utilization
 
 Next:
 
-- Milestone 7: PaddleOCR utilization
+- Milestone 8: Real receipt test
